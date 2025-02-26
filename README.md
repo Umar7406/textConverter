@@ -17,7 +17,7 @@ A simple and interactive *Text-to-Speech Converter* that allows users to enter t
 
 | Desktop View |  
 
-| ![Screenshot (17).png](#) )  
+Screenshot (17).png
 
 ---
 
@@ -32,7 +32,7 @@ A simple and interactive *Text-to-Speech Converter* that allows users to enter t
 
 1. *Clone the repository:*  
    bash
-   git clone https://github.com/your-username/text-to-speech-converter.git
+   git clone https://github.com/Umar7406/text-to-speech-converter.git
    
 2. *Navigate to the project folder:*  
    bash
@@ -50,14 +50,6 @@ A simple and interactive *Text-to-Speech Converter* that allows users to enter t
 1. Enter text in the provided text box.  
 2. Click the *Play Converted Sound* button.  
 3. The system reads the text aloud using the Web Speech API.  
-
----
-
-## *🎯 Future Enhancements*  
-🔹 Add *voice selection* (male/female).  
-🔹 Support for *multiple languages*.  
-🔹 Dark/Light mode toggle.  
-🔹 Save audio as a downloadable file.  
 
 ---
 
