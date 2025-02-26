@@ -17,7 +17,7 @@ A simple and interactive *Text-to-Speech Converter* that allows users to enter t
 
 | Desktop View |  
 
-Screenshot (17).png
+[Screenshot (17).png](#)
 
 ---
 
