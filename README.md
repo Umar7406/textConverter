@@ -13,16 +13,11 @@ A simple and interactive *Text-to-Speech Converter* that allows users to enter t
 
 ---
 
-## *🖥 Live Demo*  
-[👉 Click here to view the live project](#) (Replace with your GitHub Pages link or deployed site URL)  
-
----
-
 ## *📷 Screenshots*  
 
-| Desktop View | Mobile View |  
-|-------------|------------|  
-| ![Desktop Screenshot](#) | ![Mobile Screenshot](#) | (Add actual screenshots here)  
+| Desktop View |  
+
+| ![Screenshot (17).png](#) )  
 
 ---
 
